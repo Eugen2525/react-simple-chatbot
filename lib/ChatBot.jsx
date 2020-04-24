@@ -802,11 +802,11 @@ ChatBot.defaultProps = {
   hideUserAvatar: false,
   inputStyle: {},
   opened: undefined,
-  placeholder: 'Type the message ...',
+  placeholder: '문장을 입력하십시오 ...',
   inputAttributes: {},
   recognitionEnable: false,
   recognitionLang: 'en',
-  recognitionPlaceholder: 'Listening ...',
+  recognitionPlaceholder: '말씀하십시오 ...',
   speechSynthesis: {
     enable: false,
     lang: 'en',
